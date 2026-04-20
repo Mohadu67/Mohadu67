@@ -17,14 +17,14 @@
 ⸻
 
 ⚙️ loop de vie
-
+```
 while(alive) {
   apprendre();
   echouer();
   recommencer();
   comprendre();
 }
-
+```
 ⸻
 
 💻 stack
