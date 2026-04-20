@@ -13,16 +13,15 @@ role:    Développeur en formation (CDA)
 focus:   Comprendre avant de copier-coller
 moteur:  Curiosité > validation
 ```
-
 ---
 
 ## Ce sur quoi je travaille
 
 > Mettre ici 2–3 projets **réels**, même petits. Un TODO app custom, un scraper, un site perso. Lie-les. Sans projet, le reste ne vaut rien.
 
-- 🔨 **[Nom du projet 1]** — *une phrase : ce que ça fait, stack utilisée*
-- 🧪 **[Nom du projet 2]** — *idem*
-- 📚 **[Nom du projet 3]** — *idem*
+- 🔨 **[Harmonith.fr]** — *Ton coach a porter de main*
+- 🧪 **[generationconnecte.fr]** — *Deux generations, une connexion*
+- 📚 **[ArchiSimple]** — *Un chantier n'est pas forcément un chantier*
 
 ---
 
@@ -35,8 +34,6 @@ const stack = {
   next:     ["React", "Node.js", "TypeScript"]
 };
 ```
-
-Pas une liste de buzzwords. Ce que j'utilise vraiment, et ce que j'attaque ensuite.
 
 ---
 
@@ -61,8 +58,8 @@ Pas une liste de buzzwords. Ce que j'utilise vraiment, et ce que j'attaque ensui
 ## Contact
 
 - GitHub : [@mohadu67](https://github.com/mohadu67)
-- Email  : *à remplir*
-- LinkedIn : *à remplir*
+- Email  : *Hamiani.mohammedd@gmail.com*
+- LinkedIn : *Hamiani Mohammed*
 
 ---
 
