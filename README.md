@@ -12,6 +12,7 @@
 > role: étudiant CDA
 > statut: en progression constante
 > mission: comprendre, pas juste coder
+```
 
 ⸻
 
