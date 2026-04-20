@@ -1,97 +1,69 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hey+je+suis+Moha;Etudiant+Developpeur;J'apprends+en+galerant;Mais+je+lache+rien" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&width=620&lines=Moha+%7C+D%C3%A9veloppeur+en+construction;Je+code%2C+je+casse%2C+je+comprends;Focus+%3A+fondamentaux+solides" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
-</p>
+
 ---
-```markdown
 
-# 🧠 whoami
+## `whoami`
 
-```ini
-
-[USER]
-
-nom = Moha
-
-role = Étudiant CDA
-
-statut = En progression constante
-
-mission = Comprendre, pas juste coder
-
-⸻
-
-⚙️ loop de vie
+```yaml
+nom:     Moha
+role:    Développeur en formation (CDA)
+focus:   Comprendre avant de copier-coller
+moteur:  Curiosité > validation
 ```
-while(alive) {
-  apprendre();
-  echouer();
-  recommencer();
-  comprendre();
-}
-```
-⸻
 
-💻 stack
+---
 
-const moha = {
-  languages: ["JavaScript", "HTML", "CSS", "SQL"],
-  tools: ["Git", "VS Code", "Linux"],
-  status: "learning hard way"
+## Ce sur quoi je travaille
+
+> Mettre ici 2–3 projets **réels**, même petits. Un TODO app custom, un scraper, un site perso. Lie-les. Sans projet, le reste ne vaut rien.
+
+- 🔨 **[Nom du projet 1]** — *une phrase : ce que ça fait, stack utilisée*
+- 🧪 **[Nom du projet 2]** — *idem*
+- 📚 **[Nom du projet 3]** — *idem*
+
+---
+
+## Stack actuelle
+
+```js
+const stack = {
+  langages: ["JavaScript", "HTML", "CSS", "SQL"],
+  outils:   ["Git", "VS Code", "Linux"],
+  next:     ["React", "Node.js", "TypeScript"]
 };
-
-⸻
-
-📊 stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohadu67&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohadu67&layout=compact&theme=chartreuse-dark" />
-</p>
-
-⸻
-
-🧪 system status
-
-+ motivation: ████████████░░░░░░ 70%
-+ skill:      ███████░░░░░░░░░░░░ 40%
-- sleep:      ███░░░░░░░░░░░░░░░░ 15%
-
-⸻
-
-🧨 projets
-
-* 💡 idées → testées
-* 🐛 bugs → combattus
-* 🔄 erreurs → comprises (parfois tard)
-
-⸻
-
-⚡ terminal
-
-$ sudo become-dev
-[sudo] password: ********
-ACCESS DENIED ❌
-→ encore en train d'apprendre...
-
-⸻
-
-🧭 philosophie
-
-“Si c’est facile, t’apprends rien.”
-
-⸻
-
-📫 contact
-
-github: https://github.com/TON_USERNAME
-
-⸻
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
-</p>
 ```
+
+Pas une liste de buzzwords. Ce que j'utilise vraiment, et ce que j'attaque ensuite.
+
+---
+
+## Approche
+
+- Écrire du code que je comprends, pas du code qui marche par hasard
+- Lire les docs avant Stack Overflow
+- Casser volontairement pour comprendre pourquoi ça marche
+- Un projet fini > dix projets abandonnés
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohadu67&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohadu67&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+- GitHub : [@mohadu67](https://github.com/mohadu67)
+- Email  : *à remplir*
+- LinkedIn : *à remplir*
+
+---
+
+<p align="center"><i>"Si c'est facile, t'apprends rien."</i></p>
