@@ -7,7 +7,8 @@
 </p>
 ---
 # 🧠 whoami
-```bash
+```
+bash
 > nom: Moha
 > role: étudiant CDA
 > statut: en progression constante
