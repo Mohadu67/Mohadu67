@@ -9,10 +9,10 @@
 # 🧠 whoami
 ```
 bash
-> nom: Moha
-> role: étudiant CDA
-> statut: en progression constante
-> mission: comprendre, pas juste coder
+nom: Moha
+role: étudiant CDA
+statut: en progression constante
+mission: comprendre, pas juste coder
 ```
 
 ⸻
