@@ -6,14 +6,21 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 </p>
 ---
+```markdown
+
 # 🧠 whoami
-```
-bash
-nom: Moha
-role: étudiant CDA
-statut: en progression constante
-mission: comprendre, pas juste coder
-```
+
+```ini
+
+[USER]
+
+nom = Moha
+
+role = Étudiant CDA
+
+statut = En progression constante
+
+mission = Comprendre, pas juste coder
 
 ⸻
 
