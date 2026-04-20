@@ -17,8 +17,6 @@ moteur:  Curiosité > validation
 
 ## Ce sur quoi je travaille
 
-> Mettre ici 2–3 projets **réels**, même petits. Un TODO app custom, un scraper, un site perso. Lie-les. Sans projet, le reste ne vaut rien.
-
 - 🔨 **[Harmonith.fr]** — *Ton coach a porter de main*
 - 🧪 **[generationconnecte.fr]** — *Deux generations, une connexion*
 - 📚 **[ArchiSimple]** — *Un chantier n'est pas forcément un chantier*
