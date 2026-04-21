@@ -17,10 +17,9 @@ moteur:  Curiosité > validation
 
 ## Ce sur quoi je travaille
 
-- 🔨 **[Harmonith.fr]** — *Ton coach a porter de main*
-- 🧪 **[generationconnecte.fr]** — *Deux generations, une connexion*
-- 📚 **[ArchiSimple]** — *Un chantier n'est pas forcément un chantier*
-
+- 🔨 <a href="https://harmonith.fr" target="_blank">Harmonith.fr</a> — *Ton coach à portée de main*
+- 🧪 <a href="https://generationconnecte.fr" target="_blank">generationconnecte.fr</a> — *Deux générations, une connexion*
+- 📚 <a href="https://archisimple.fr" target="_blank">ArchiSimple</a> — *Un chantier n'est pas forcément un chantier*
 ---
 
 ## Stack actuelle
