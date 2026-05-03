@@ -17,9 +17,9 @@ moteur:  Curiosité > validation
 
 ## Ce sur quoi je travaille
 
-- 🔨 <a href="https://harmonith.fr" target="_blank">Harmonith.fr</a> — *Ton coach à portée de main*
-- 🧪 <a href="https://generationconnecte.fr" target="_blank">generationconnecte.fr</a> — *Deux générations, une connexion*
-- 📚 <a href="https://archisimple.fr" target="_blank">ArchiSimple</a> — *Un chantier n'est pas forcément un chantier*
+- 🔨 <a href="https://harmonith.fr" target="_blank">Harmonith</a> — *Ton coach à portée de main 🤚*
+- 🧪 <a href="https://generationconnecte.fr" target="_blank">Linko</a> — *Deux générations, une connexion !*
+- 📚 <a href="https://atelierdunuage.fr" target="_blank">Atelier du nuage</a> — *Deux étudiants à Strasbourg. Un tiramisu. Une histoire qui a bien levé.*
 ---
 
 ## Stack actuelle
